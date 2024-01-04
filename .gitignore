@@ -1,0 +1,3 @@
+# dengan menggunakan file .gitignore
+# maka file yang namanya dimasukkan kesini akan tidak termasuk dalam file yang dikirimkan jika kita menggunakan "git add ."
+fileYangTidakDikirimkan.js
